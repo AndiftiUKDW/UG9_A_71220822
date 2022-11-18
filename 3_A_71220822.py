@@ -1,6 +1,3 @@
-from decimal import ROUND_UP
-
-
 panjang = int(input("Masukan panjang : "))
 lebar = int(input("Masukan lebar : "))
 jari = int(input("Masukan jari-jari : "))
